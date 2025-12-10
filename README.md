@@ -69,9 +69,7 @@ Status: Available for collaboration
 
 <div align="center">
   
-![restiandf's GitHub stats](https://github-readme-stats.vercel.app/api?username=restiandf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=restiandf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![restiandf's GitHub stats](https://github-readme-stats.vercel.app/api?username=restiandf&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=restiandf&theme=tokyonight&hide_border=true&background=0D1117)
 
