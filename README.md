@@ -12,7 +12,7 @@
 
 ---
 
-## 🐍 Snake Game Eating My Contributions
+## 🐍 My Contributions
 
 <div align="center">
 
