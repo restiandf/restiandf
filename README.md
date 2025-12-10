@@ -20,8 +20,6 @@
 
 </div>
 
-> **Note:** Animasi ini dibuat otomatis dari GitHub contributions grid Anda. Ular akan memakan kontribusi Git Anda setiap hari! 🎮
-
 ---
 
 ## 🖥️ About Me
@@ -69,7 +67,7 @@ Status: Available for collaboration
 
 <div align="center">
   
-![restiandf's GitHub stats](https://github-readme-stats.vercel.app/api?username=restiandf&show_icons=true&theme=radical)
+![restiandf's GitHub stats](https://gh-readme-profile.vercel.app/api?username=restiandf&theme=transparent)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=restiandf&theme=tokyonight&hide_border=true&background=0D1117)
 
