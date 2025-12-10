@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/restiandf/restiandf/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/restiandf/restiandf/main/dist/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -69,7 +69,7 @@ Status: Available for collaboration
 
 <div align="center">
   
-![restiandf's GitHub stats](https://github-readme-stats.vercel.app/api?username=restiandf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
+![restiandf's GitHub stats](https://github-readme-stats.vercel.app/api?username=restiandf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=restiandf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
