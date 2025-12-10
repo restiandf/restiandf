@@ -29,7 +29,6 @@ Name: restiandf
 Role: Full Stack Developer
 Location: Indonesia 🇮🇩
 Website: restiandf.my.id
-Status: Available for collaboration
 ```
 
 ---
